@@ -1,0 +1,42 @@
+body {
+    background-color: #d10000;
+    max-width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 7px;
+}
+
+h1 {
+    color: #ffffff;
+    text-align: center;
+    font-family: "Sigmar One";
+    font-size: 36px;
+}
+
+p {
+    font-family: VT323;
+    font-size: 25px;
+}
+
+img {
+    max-width: 100%;
+}
+
+a:link {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+a:visited {
+    color: #000099;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #000099;
+    text-decoration: underline;
+}
+
+a:active {
+    color: #009900;
+}
